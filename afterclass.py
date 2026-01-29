@@ -1,6 +1,6 @@
-x = 5
-y = 9
-z = 1
+x = int(input("Enter first number (x): "))
+y = int(input("Enter second number (y): "))
+z = int(input("Enter third number (z): "))
 print("Before swapping: x =", x, ", y =", y, ", z =", z)
 
 t = x
